@@ -8,7 +8,7 @@ import (
 
 	"context"
 
-	pb "X/proto/consignment"
+	pb "github.com/dzvo/shippy/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 )
 
